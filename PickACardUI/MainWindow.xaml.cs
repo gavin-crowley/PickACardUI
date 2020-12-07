@@ -18,6 +18,7 @@ namespace PickACardUI
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    // new comment here
     public partial class MainWindow : Window
     {
         public MainWindow()
