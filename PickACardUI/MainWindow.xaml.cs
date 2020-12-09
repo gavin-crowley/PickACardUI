@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace PickACardUI
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for MainWindow.xaml file
     /// </summary>
     // new comment here
     public partial class MainWindow : Window
