@@ -5,7 +5,7 @@ namespace PickACardUI
 {
     public class CardPicker
     {
-        /// <summary>
+        /// <summary updated>
         /// Creates new random instance
         /// </summary>
         static Random random = new Random();
